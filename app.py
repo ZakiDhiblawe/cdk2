@@ -45,6 +45,8 @@ def predict():
             'gender_prediction': int(gender_prediction)  # Convert to native Python type
         })
     except Exception as e:
+        # Print the error for debugging
+        print(f"Error: {str(e)}")
         return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
