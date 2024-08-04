@@ -1,6 +1,6 @@
 # Application of Machine Learning in Identifying Risk Factors for Chronic Kidney Disease
 
-## Project Description
+## Project Descriptio
 
 ### Title
 **Application of Machine Learning in Identifying Risk Factors for Chronic Kidney Disease**
