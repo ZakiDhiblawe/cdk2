@@ -114,3 +114,6 @@ The project consists of two main components: a machine learning model and a web 
 
 ## Conclusion
 The "Application of Machine Learning in Identifying Risk Factors for Chronic Kidney Disease" project stands to make a significant impact on the healthcare. By providing a robust, accessible tool for early detection of CKD, it empowers healthcare providers and patients alike, contributing to better health outcomes and a stronger healthcare system.
+
+
+11111111111
